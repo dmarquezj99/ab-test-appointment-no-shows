@@ -4,7 +4,6 @@ A statistical analysis of whether SMS reminders reduce patient no-shows — and 
 
 > **Open the notebook** (`Medical_Appointment_No_Shows.ipynb`) to see the full analysis, code, and charts rendered inline.
 
-<!-- ![No-show rate by SMS reminder](<img width="493" height="390" alt="bar chart" src="https://github.com/user-attachments/assets/7354e557-8057-4d27-8a39-5fbb134022ac" />) -->
 <img width="493" height="390" alt="bar chart" src="https://github.com/user-attachments/assets/a86af265-de63-4d8c-959c-9f9599f08978" />
 
 ---
